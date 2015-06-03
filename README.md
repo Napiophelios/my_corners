@@ -1,4 +1,4 @@
-# my_corners
+#new_corners
 light weight alternative to my_corners mod by Don Bateman
 
 This mod attempts to replicate nodes created in Don Bateman's my_corners mod
